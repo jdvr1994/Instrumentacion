@@ -1,0 +1,108 @@
+Mono path[0] = 'D:/PERSONAL/UNIVERSIDAD/REGRESO2018/Instrumentacion/Laboratorio 1 (MPU9250)/UnityApp/Filter_Data/Managed'
+Mono path[1] = 'D:/PERSONAL/UNIVERSIDAD/REGRESO2018/Instrumentacion/Laboratorio 1 (MPU9250)/UnityApp/Filter_Data/Mono'
+Mono config path = 'D:/PERSONAL/UNIVERSIDAD/REGRESO2018/Instrumentacion/Laboratorio 1 (MPU9250)/UnityApp/Filter_Data/Mono/etc'
+PlayerConnection initialized from D:/PERSONAL/UNIVERSIDAD/REGRESO2018/Instrumentacion/Laboratorio 1 (MPU9250)/UnityApp/Filter_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55253
+Multi-casting "[IP] 192.168.0.3 [Port] 55253 [Flags] 2 [Guid] 245780779 [EditorId] 2754827429 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-A0MMO0A) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55253]
+PlayerConnection already initialized - listening to [0.0.0.0:55253]
+Player data archive not found at `D:/PERSONAL/UNIVERSIDAD/REGRESO2018/Instrumentacion/Laboratorio 1 (MPU9250)/UnityApp/Filter_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4029 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\CursorControl.dll (this message is harmless)
+Loading D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\CursorControl.dll into Unity Child Domain
+- Completed reload, in  0.113 seconds
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1080 60Hz; virtual: 4480x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\PERSONAL\UNIVERSIDAD\REGRESO2018\Instrumentacion\Laboratorio 1 (MPU9250)\UnityApp\Filter_Data\Managed\System.Xml.dll (this message is harmless)
+UnloadTime: 0.718506 ms
+447
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SignalPloter.Plot:.ctor(GameObject[], Material) (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\Plot.cs:53)
+LeerSensoresWithOutPanels:bindGraphs() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:368)
+LeerSensoresWithOutPanels:Start() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:76)
+ 
+(Filename: D:/ProyectosUnity/CubeMARGSensor/Assets/Scripts/Calibracion/Plot.cs Line: 53)
+
+568
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SignalPloter.Plot:.ctor(GameObject[], Material) (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\Plot.cs:54)
+LeerSensoresWithOutPanels:bindGraphs() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:368)
+LeerSensoresWithOutPanels:Start() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:76)
+ 
+(Filename: D:/ProyectosUnity/CubeMARGSensor/Assets/Scripts/Calibracion/Plot.cs Line: 54)
+
+1119
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SignalPloter.Plot:.ctor(GameObject[], Material) (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\Plot.cs:53)
+LeerSensoresWithOutPanels:bindGraphs() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:368)
+LeerSensoresWithOutPanels:Start() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:76)
+ 
+(Filename: D:/ProyectosUnity/CubeMARGSensor/Assets/Scripts/Calibracion/Plot.cs Line: 53)
+
+568
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SignalPloter.Plot:.ctor(GameObject[], Material) (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\Plot.cs:54)
+LeerSensoresWithOutPanels:bindGraphs() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:368)
+LeerSensoresWithOutPanels:Start() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:76)
+ 
+(Filename: D:/ProyectosUnity/CubeMARGSensor/Assets/Scripts/Calibracion/Plot.cs Line: 54)
+
+447
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SignalPloter.Plot:.ctor(GameObject[], Material) (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\Plot.cs:53)
+LeerSensoresWithOutPanels:bindGraphs() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:368)
+LeerSensoresWithOutPanels:Start() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:76)
+ 
+(Filename: D:/ProyectosUnity/CubeMARGSensor/Assets/Scripts/Calibracion/Plot.cs Line: 53)
+
+568
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SignalPloter.Plot:.ctor(GameObject[], Material) (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\Plot.cs:54)
+LeerSensoresWithOutPanels:bindGraphs() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:368)
+LeerSensoresWithOutPanels:Start() (at D:\ProyectosUnity\CubeMARGSensor\Assets\Scripts\Calibracion\LeerSensoresWithOutPanels.cs:76)
+ 
+(Filename: D:/ProyectosUnity/CubeMARGSensor/Assets/Scripts/Calibracion/Plot.cs Line: 54)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2ae8 -> priority: 1 
+  Thread -> id: 375c -> priority: 1 
+  Thread -> id: 2ab4 -> priority: 1 
+  Thread -> id: 1a48 -> priority: 1 
