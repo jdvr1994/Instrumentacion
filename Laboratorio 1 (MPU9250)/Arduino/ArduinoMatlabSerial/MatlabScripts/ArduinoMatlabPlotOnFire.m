@@ -1,3 +1,6 @@
+%% ArduinoSerialMatlab - github.com/jdvr1994
+%% Copyright Juan David Velasquez 2018
+%% MIT License
 
 %% CONFIGURACION PUERTO COM
 % Eliges el puerto COM a utilizar (en este ejemplo COM4) 
