@@ -1,3 +1,7 @@
+// ArduinoSerialMatlab - github.com/jdvr1994
+// Copyright Juan David Velasquez 2018
+// MIT License
+
 int16_t ax = 0;
 int16_t ay = 0;
 int16_t az = 0;
