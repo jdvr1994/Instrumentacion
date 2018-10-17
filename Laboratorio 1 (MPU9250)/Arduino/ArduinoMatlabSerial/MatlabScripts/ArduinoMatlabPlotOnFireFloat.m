@@ -72,14 +72,14 @@ pause(0.2);
 for i=1:NUM_MUESTRAS
     %Envio 'a' para solicitar los datos del accelerometro
     fwrite(s,'a','char');
-    acelerometro = fscanf(s,'%d,%d,%d')';
+    acelerometro = fscanf(s,'%f,%f,%f')';
     ax(i)=acelerometro(1);
     ay(i)=acelerometro(2);
     az(i)=acelerometro(3);
     
     %Envio 'g' para solicitar los datos del accelerometro
     fwrite(s,'g','char');
-    giroscopos = fscanf(s,'%d,%d,%d')';
+    giroscopos = fscanf(s,'%f,%f,%f')';
     gx(i)=giroscopos(1);
     gy(i)=giroscopos(2);
     gz(i)=giroscopos(3);
